@@ -4,7 +4,9 @@
 .DS_Store
 venv/
 .pytest_cache/
+
+# Prevent reintroduction of VS Code folderOpen dropper artifacts
+.vscode/
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
-.gitignore
